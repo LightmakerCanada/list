@@ -6719,7 +6719,7 @@ org.zw
 
 // newGTLDs
 
-// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-08-02T15:12:00Z
+// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-02-26T15:04:28Z
 // This list is auto-generated, don't edit it manually.
 // aaa : American Automobile Association, Inc.
 aaa
@@ -6948,9 +6948,6 @@ baidu
 
 // banamex : Citigroup Inc.
 banamex
-
-// bananarepublic : The Gap, Inc.
-bananarepublic
 
 // band : Dog Beach, LLC
 band
@@ -7237,13 +7234,10 @@ cbn
 // cbre : CBRE, Inc.
 cbre
 
-// cbs : CBS Domains Inc.
-cbs
-
 // center : Binky Moon, LLC
 center
 
-// ceo : CEOTLD Pty Ltd
+// ceo : XYZ.COM LLC
 ceo
 
 // cern : European Organization for Nuclear Research ("CERN")
@@ -7306,9 +7300,6 @@ citic
 // city : Binky Moon, LLC
 city
 
-// cityeats : Lifestyle Domain Holdings, Inc.
-cityeats
-
 // claims : Binky Moon, LLC
 claims
 
@@ -7350,9 +7341,6 @@ college
 
 // cologne : dotKoeln GmbH
 cologne
-
-// comcast : Comcast IP Holdings I, LLC
-comcast
 
 // commbank : COMMONWEALTH BANK OF AUSTRALIA
 commbank
@@ -7507,9 +7495,6 @@ dental
 // dentist : Dog Beach, LLC
 dentist
 
-// desi : Desi Networks LLC
-desi
-
 // design : Registry Services, LLC
 design
 
@@ -7543,7 +7528,7 @@ discover
 // dish : Dish DBS Corporation
 dish
 
-// diy : Lifestyle Domain Holdings, Inc.
+// diy : Internet Naming Company LLC
 diy
 
 // dnp : Dai Nippon Printing Co., Ltd.
@@ -7641,9 +7626,6 @@ esq
 
 // estate : Binky Moon, LLC
 estate
-
-// etisalat : Emirates Telecommunications Corporation (trading as Etisalat)
-etisalat
 
 // eurovision : European Broadcasting Union (EBU)
 eurovision
@@ -7774,7 +7756,7 @@ fly
 // foo : Charleston Road Registry Inc.
 foo
 
-// food : Lifestyle Domain Holdings, Inc.
+// food : Internet Naming Company LLC
 food
 
 // football : Binky Moon, LLC
@@ -7810,9 +7792,6 @@ frl
 // frogans : OP3FT
 frogans
 
-// frontdoor : Lifestyle Domain Holdings, Inc.
-frontdoor
-
 // frontier : Frontier Communications Corporation
 frontier
 
@@ -7822,7 +7801,7 @@ ftr
 // fujitsu : Fujitsu Limited
 fujitsu
 
-// fun : Radix FZC
+// fun : Radix Technologies Inc.
 fun
 
 // fund : Binky Moon, LLC
@@ -7933,7 +7912,7 @@ goldpoint
 // golf : Binky Moon, LLC
 golf
 
-// goo : NTT Resonant Inc.
+// goo : NTT DOCOMO, INC.
 goo
 
 // goodyear : The Goodyear Tire & Rubber Company
@@ -8074,7 +8053,7 @@ horse
 // hospital : Binky Moon, LLC
 hospital
 
-// host : Radix FZC
+// host : Radix Technologies Inc.
 host
 
 // hosting : XYZ.COM LLC
@@ -8239,7 +8218,7 @@ jpmorgan
 // jprs : Japan Registry Services Co., Ltd.
 jprs
 
-// juegos : Internet Naming Company LLC
+// juegos : Dog Beach, LLC
 juegos
 
 // juniper : JUNIPER NETWORKS, INC.
@@ -8271,9 +8250,6 @@ kids
 
 // kim : Identity Digital Limited
 kim
-
-// kinder : Ferrero Trading Lux S.A.
-kinder
 
 // kindle : Amazon Registry Services, Inc.
 kindle
@@ -8383,7 +8359,7 @@ life
 // lifeinsurance : American Council of Life Insurers
 lifeinsurance
 
-// lifestyle : Lifestyle Domain Holdings, Inc.
+// lifestyle : Internet Naming Company LLC
 lifestyle
 
 // lighting : Binky Moon, LLC
@@ -8413,7 +8389,7 @@ lipsy
 // live : Dog Beach, LLC
 live
 
-// living : Lifestyle Domain Holdings, Inc.
+// living : Internet Naming Company LLC
 living
 
 // llc : Identity Digital Limited
@@ -8428,7 +8404,7 @@ loan
 // loans : Binky Moon, LLC
 loans
 
-// locker : Dish DBS Corporation
+// locker : Orange Domains LLC
 locker
 
 // locus : Locus Analytics LLC
@@ -8704,9 +8680,6 @@ nissay
 // nokia : Nokia Corporation
 nokia
 
-// northwesternmutual : Northwestern Mutual Registry, LLC
-northwesternmutual
-
 // norton : NortonLifeLock Inc.
 norton
 
@@ -8734,7 +8707,7 @@ nyc
 // obi : OBI Group Holding SE & Co. KGaA
 obi
 
-// observer : Dog Beach, LLC
+// observer : Fegistry, LLC
 observer
 
 // office : Microsoft Corporation
@@ -8748,9 +8721,6 @@ olayan
 
 // olayangroup : Competrol (Luxembourg) Sarl
 olayangroup
-
-// oldnavy : The Gap, Inc.
-oldnavy
 
 // ollo : Dish DBS Corporation
 ollo
@@ -8767,7 +8737,7 @@ ong
 // onl : iRegistry GmbH
 onl
 
-// online : Radix FZC
+// online : Radix Technologies Inc.
 online
 
 // ooo : INFIBEAM AVENUES LIMITED
@@ -8920,7 +8890,7 @@ pramerica
 // praxi : Praxi S.p.A.
 praxi
 
-// press : Radix FZC
+// press : Radix Technologies Inc.
 press
 
 // prime : Amazon Registry Services, Inc.
@@ -8944,7 +8914,7 @@ promo
 // properties : Binky Moon, LLC
 properties
 
-// property : Internet Naming Company LLC
+// property : Digital Property Infrastructure Limited
 property
 
 // protection : XYZ.COM LLC
@@ -8986,7 +8956,7 @@ realestate
 // realtor : Real Estate Domains LLC
 realtor
 
-// realty : Dog Beach, LLC
+// realty : Internet Naming Company LLC
 realty
 
 // recipes : Binky Moon, LLC
@@ -9066,9 +9036,6 @@ rio
 
 // rip : Dog Beach, LLC
 rip
-
-// rocher : Ferrero Trading Lux S.A.
-rocher
 
 // rocks : Dog Beach, LLC
 rocks
@@ -9153,9 +9120,6 @@ sbi
 
 // sbs : ShortDot SA
 sbs
-
-// sca : SVENSKA CELLULOSA AKTIEBOLAGET SCA (publ)
-sca
 
 // scb : The Siam Commercial Bank Public Company Limited ("SCB")
 scb
@@ -9256,9 +9220,6 @@ shouji
 // show : Binky Moon, LLC
 show
 
-// showtime : CBS Domains Inc.
-showtime
-
 // silk : Amazon Registry Services, Inc.
 silk
 
@@ -9268,7 +9229,7 @@ sina
 // singles : Binky Moon, LLC
 singles
 
-// site : Radix FZC
+// site : Radix Technologies Inc.
 site
 
 // ski : Identity Digital Limited
@@ -9328,7 +9289,7 @@ soy
 // spa : Asia Spa and Wellness Promotion Council Limited
 spa
 
-// space : Radix FZC
+// space : Radix Technologies Inc.
 space
 
 // sport : SportAccord
@@ -9367,7 +9328,7 @@ stockholm
 // storage : XYZ.COM LLC
 storage
 
-// store : Radix FZC
+// store : Radix Technologies Inc.
 store
 
 // stream : dot Stream Limited
@@ -9454,7 +9415,7 @@ tdk
 // team : Binky Moon, LLC
 team
 
-// tech : Radix FZC
+// tech : Radix Technologies Inc.
 tech
 
 // technology : Binky Moon, LLC
@@ -9592,7 +9553,7 @@ unicom
 // university : Binky Moon, LLC
 university
 
-// uno : Radix FZC
+// uno : Radix Technologies Inc.
 uno
 
 // uol : UBN INTERNET LTDA.
@@ -9604,7 +9565,7 @@ ups
 // vacations : Binky Moon, LLC
 vacations
 
-// vana : Lifestyle Domain Holdings, Inc.
+// vana : Internet Naming Company LLC
 vana
 
 // vanguard : The Vanguard Group, Inc.
@@ -9667,9 +9628,6 @@ vlaanderen
 // vodka : Registry Services, LLC
 vodka
 
-// volkswagen : Volkswagen Group of America Inc.
-volkswagen
-
 // volvo : Volvo Holding Sverige Aktiebolag
 volvo
 
@@ -9718,7 +9676,7 @@ webcam
 // weber : Saint-Gobain Weber SA
 weber
 
-// website : Radix FZC
+// website : Radix Technologies Inc.
 website
 
 // wedding : Registry Services, LLC
@@ -9786,9 +9744,6 @@ xbox
 
 // xerox : Xerox DNHC LLC
 xerox
-
-// xfinity : Comcast IP Holdings I, LLC
-xfinity
 
 // xihuan : Beijing Qihu Keji Co., Ltd.
 xihuan
@@ -9969,9 +9924,6 @@ xin
 
 // xn--mgba7c0bbn0a : Competrol (Luxembourg) Sarl
 العليان
-
-// xn--mgbaakc7dvf : Emirates Telecommunications Corporation (trading as Etisalat)
-اتصالات
 
 // xn--mgbab2bd : CORE Association
 بازار
