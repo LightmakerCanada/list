@@ -6719,7 +6719,7 @@ org.zw
 
 // newGTLDs
 
-// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2023-08-02T15:12:00Z
+// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-09-12T15:09:31Z
 // This list is auto-generated, don't edit it manually.
 // aaa : American Automobile Association, Inc.
 aaa
@@ -6859,7 +6859,7 @@ anquan
 // anz : Australia and New Zealand Banking Group Limited
 anz
 
-// aol : Oath Inc.
+// aol : AOL Media LLC
 aol
 
 // apartments : Binky Moon, LLC
@@ -6880,7 +6880,7 @@ arab
 // aramco : Aramco Services Company
 aramco
 
-// archi : Identity Digital Limited
+// archi : Identity Digital Domains Limited
 archi
 
 // army : Dog Beach, LLC
@@ -6892,7 +6892,7 @@ art
 // arte : Association Relative à la Télévision Européenne G.E.I.E.
 arte
 
-// asda : Wal-Mart Stores, Inc.
+// asda : Asda Stores Limited
 asda
 
 // associates : Binky Moon, LLC
@@ -6928,9 +6928,6 @@ auto
 // autos : XYZ.COM LLC
 autos
 
-// avianca : Avianca Inc.
-avianca
-
 // aws : AWS Registry LLC
 aws
 
@@ -6948,9 +6945,6 @@ baidu
 
 // banamex : Citigroup Inc.
 banamex
-
-// bananarepublic : The Gap, Inc.
-bananarepublic
 
 // band : Dog Beach, LLC
 band
@@ -7012,9 +7006,6 @@ beauty
 // beer : Registry Services, LLC
 beer
 
-// bentley : Bentley Motors Limited
-bentley
-
 // berlin : dotBERLIN GmbH & Co. KG
 berlin
 
@@ -7024,7 +7015,7 @@ best
 // bestbuy : BBY Solutions, Inc.
 bestbuy
 
-// bet : Identity Digital Limited
+// bet : Identity Digital Domains Limited
 bet
 
 // bharti : Bharti Enterprises (Holding) Private Limited
@@ -7045,10 +7036,10 @@ bing
 // bingo : Binky Moon, LLC
 bingo
 
-// bio : Identity Digital Limited
+// bio : Identity Digital Domains Limited
 bio
 
-// black : Identity Digital Limited
+// black : Identity Digital Domains Limited
 black
 
 // blackfriday : Registry Services, LLC
@@ -7063,7 +7054,7 @@ blog
 // bloomberg : Bloomberg IP Holdings LLC
 bloomberg
 
-// blue : Identity Digital Limited
+// blue : Identity Digital Domains Limited
 blue
 
 // bms : Bristol-Myers Squibb Company
@@ -7237,13 +7228,10 @@ cbn
 // cbre : CBRE, Inc.
 cbre
 
-// cbs : CBS Domains Inc.
-cbs
-
 // center : Binky Moon, LLC
 center
 
-// ceo : CEOTLD Pty Ltd
+// ceo : XYZ.COM LLC
 ceo
 
 // cern : European Organization for Nuclear Research ("CERN")
@@ -7288,7 +7276,7 @@ church
 // cipriani : Hotel Cipriani Srl
 cipriani
 
-// circle : Amazon Registry Services, Inc.
+// circle : Jolly Host, LLC
 circle
 
 // cisco : Cisco Technology, Inc.
@@ -7306,16 +7294,13 @@ citic
 // city : Binky Moon, LLC
 city
 
-// cityeats : Lifestyle Domain Holdings, Inc.
-cityeats
-
 // claims : Binky Moon, LLC
 claims
 
 // cleaning : Binky Moon, LLC
 cleaning
 
-// click : Internet Naming Company LLC
+// click : Waterford Limited
 click
 
 // clinic : Binky Moon, LLC
@@ -7350,9 +7335,6 @@ college
 
 // cologne : dotKoeln GmbH
 cologne
-
-// comcast : Comcast IP Holdings I, LLC
-comcast
 
 // commbank : COMMONWEALTH BANK OF AUSTRALIA
 commbank
@@ -7444,9 +7426,6 @@ cymru
 // cyou : ShortDot SA
 cyou
 
-// dabur : Dabur India Limited
-dabur
-
 // dad : Charleston Road Registry Inc.
 dad
 
@@ -7507,9 +7486,6 @@ dental
 // dentist : Dog Beach, LLC
 dentist
 
-// desi : Desi Networks LLC
-desi
-
 // design : Registry Services, LLC
 design
 
@@ -7543,7 +7519,7 @@ discover
 // dish : Dish DBS Corporation
 dish
 
-// diy : Lifestyle Domain Holdings, Inc.
+// diy : Internet Naming Company LLC
 diy
 
 // dnp : Dai Nippon Printing Co., Ltd.
@@ -7575,9 +7551,6 @@ dtv
 
 // dubai : Dubai Smart Government Department
 dubai
-
-// dunlop : The Goodyear Tire & Rubber Company
-dunlop
 
 // dupont : DuPont Specialty Products USA, LLC
 dupont
@@ -7641,9 +7614,6 @@ esq
 
 // estate : Binky Moon, LLC
 estate
-
-// etisalat : Emirates Telecommunications Corporation (trading as Etisalat)
-etisalat
 
 // eurovision : European Broadcasting Union (EBU)
 eurovision
@@ -7774,7 +7744,7 @@ fly
 // foo : Charleston Road Registry Inc.
 foo
 
-// food : Lifestyle Domain Holdings, Inc.
+// food : Internet Naming Company LLC
 food
 
 // football : Binky Moon, LLC
@@ -7789,7 +7759,7 @@ forex
 // forsale : Dog Beach, LLC
 forsale
 
-// forum : Fegistry, LLC
+// forum : Waterford Limited
 forum
 
 // foundation : Public Interest Registry
@@ -7810,9 +7780,6 @@ frl
 // frogans : OP3FT
 frogans
 
-// frontdoor : Lifestyle Domain Holdings, Inc.
-frontdoor
-
 // frontier : Frontier Communications Corporation
 frontier
 
@@ -7822,7 +7789,7 @@ ftr
 // fujitsu : Fujitsu Limited
 fujitsu
 
-// fun : Radix FZC
+// fun : Radix Technologies Inc SEZC
 fun
 
 // fund : Binky Moon, LLC
@@ -7903,7 +7870,7 @@ glass
 // gle : Charleston Road Registry Inc.
 gle
 
-// global : Identity Digital Limited
+// global : Identity Digital Domains Limited
 global
 
 // globo : Globo Comunicação e Participações S.A
@@ -7933,9 +7900,6 @@ goldpoint
 // golf : Binky Moon, LLC
 golf
 
-// goo : NTT Resonant Inc.
-goo
-
 // goodyear : The Goodyear Tire & Rubber Company
 goodyear
 
@@ -7948,7 +7912,7 @@ google
 // gop : Republican State Leadership Committee, Inc.
 gop
 
-// got : Amazon Registry Services, Inc.
+// got : Jolly Host, LLC
 got
 
 // grainger : Grainger Registry Services, LLC
@@ -7960,7 +7924,7 @@ graphics
 // gratis : Binky Moon, LLC
 gratis
 
-// green : Identity Digital Limited
+// green : Identity Digital Domains Limited
 green
 
 // gripe : Binky Moon, LLC
@@ -7971,9 +7935,6 @@ grocery
 
 // group : Binky Moon, LLC
 group
-
-// guardian : The Guardian Life Insurance Company of America
-guardian
 
 // gucci : Guccio Gucci S.p.a.
 gucci
@@ -8005,10 +7966,10 @@ haus
 // hbo : HBO Registry Services, Inc.
 hbo
 
-// hdfc : HOUSING DEVELOPMENT FINANCE CORPORATION LIMITED
+// hdfc : HDFC BANK LIMITED
 hdfc
 
-// hdfcbank : HDFC Bank Limited
+// hdfcbank : HDFC BANK LIMITED
 hdfcbank
 
 // health : Registry Services, LLC
@@ -8074,7 +8035,7 @@ horse
 // hospital : Binky Moon, LLC
 hospital
 
-// host : Radix FZC
+// host : Radix Technologies Inc SEZC
 host
 
 // hosting : XYZ.COM LLC
@@ -8082,6 +8043,9 @@ hosting
 
 // hot : Amazon Registry Services, Inc.
 hot
+
+// hotel : HOTEL Top-Level-Domain S.a.r.l
+hotel
 
 // hotels : Booking.com B.V.
 hotels
@@ -8227,7 +8191,7 @@ jnj
 // joburg : ZA Central Registry NPC trading as ZA Central Registry
 joburg
 
-// jot : Amazon Registry Services, Inc.
+// jot : Jolly Host, LLC
 jot
 
 // joy : Amazon Registry Services, Inc.
@@ -8239,7 +8203,7 @@ jpmorgan
 // jprs : Japan Registry Services Co., Ltd.
 jprs
 
-// juegos : Internet Naming Company LLC
+// juegos : Dog Beach, LLC
 juegos
 
 // juniper : JUNIPER NETWORKS, INC.
@@ -8254,9 +8218,6 @@ kddi
 // kerryhotels : Kerry Trading Co. Limited
 kerryhotels
 
-// kerrylogistics : Kerry Trading Co. Limited
-kerrylogistics
-
 // kerryproperties : Kerry Trading Co. Limited
 kerryproperties
 
@@ -8269,11 +8230,8 @@ kia
 // kids : DotKids Foundation Limited
 kids
 
-// kim : Identity Digital Limited
+// kim : Identity Digital Domains Limited
 kim
-
-// kinder : Ferrero Trading Lux S.A.
-kinder
 
 // kindle : Amazon Registry Services, Inc.
 kindle
@@ -8308,7 +8266,7 @@ kred
 // kuokgroup : Kerry Trading Co. Limited
 kuokgroup
 
-// kyoto : Academic Institution: Kyoto Jyoho Gakuen
+// kyoto : Academic Institution: The University of Informatics
 kyoto
 
 // lacaixa : Fundación Bancaria Caixa d’Estalvis i Pensions de Barcelona, “la Caixa”
@@ -8319,9 +8277,6 @@ lamborghini
 
 // lamer : The Estée Lauder Companies Inc.
 lamer
-
-// lancaster : LANCASTER
-lancaster
 
 // land : Binky Moon, LLC
 land
@@ -8371,7 +8326,7 @@ lego
 // lexus : TOYOTA MOTOR CORPORATION
 lexus
 
-// lgbt : Identity Digital Limited
+// lgbt : Identity Digital Domains Limited
 lgbt
 
 // lidl : Schwarz Domains und Services GmbH & Co. KG
@@ -8383,7 +8338,7 @@ life
 // lifeinsurance : American Council of Life Insurers
 lifeinsurance
 
-// lifestyle : Lifestyle Domain Holdings, Inc.
+// lifestyle : Internet Naming Company LLC
 lifestyle
 
 // lighting : Binky Moon, LLC
@@ -8407,16 +8362,13 @@ lincoln
 // link : Nova Registry Ltd
 link
 
-// lipsy : Lipsy Ltd
-lipsy
-
 // live : Dog Beach, LLC
 live
 
-// living : Lifestyle Domain Holdings, Inc.
+// living : Internet Naming Company LLC
 living
 
-// llc : Identity Digital Limited
+// llc : Identity Digital Domains Limited
 llc
 
 // llp : Intercap Registry Inc.
@@ -8428,7 +8380,7 @@ loan
 // loans : Binky Moon, LLC
 loans
 
-// locker : Dish DBS Corporation
+// locker : Orange Domains LLC
 locker
 
 // locus : Locus Analytics LLC
@@ -8443,10 +8395,10 @@ london
 // lotte : Lotte Holdings Co., Ltd.
 lotte
 
-// lotto : Identity Digital Limited
+// lotto : Identity Digital Domains Limited
 lotto
 
-// love : Merchant Law Group LLP
+// love : Waterford Limited
 love
 
 // lpl : LPL Holdings, Inc.
@@ -8482,7 +8434,7 @@ maison
 // makeup : XYZ.COM LLC
 makeup
 
-// man : MAN SE
+// man : MAN Truck & Bus SE
 man
 
 // management : Binky Moon, LLC
@@ -8509,7 +8461,7 @@ marriott
 // marshalls : The TJX Companies, Inc.
 marshalls
 
-// mattel : Mattel Sites, Inc.
+// mattel : Mattel IT Services, Inc.
 mattel
 
 // mba : Binky Moon, LLC
@@ -8541,6 +8493,9 @@ men
 
 // menu : Dot Menu Registry, LLC
 menu
+
+// merck : Merck Registry Holdings, Inc.
+merck
 
 // merckmsd : MSD Registry Holdings, Inc.
 merckmsd
@@ -8635,9 +8590,6 @@ nab
 // nagoya : GMO Registry, Inc.
 nagoya
 
-// natura : NATURA COSMÉTICOS S.A.
-natura
-
 // navy : Dog Beach, LLC
 navy
 
@@ -8704,22 +8656,16 @@ nissay
 // nokia : Nokia Corporation
 nokia
 
-// northwesternmutual : Northwestern Mutual Registry, LLC
-northwesternmutual
-
-// norton : NortonLifeLock Inc.
+// norton : Gen Digital Inc.
 norton
 
 // now : Amazon Registry Services, Inc.
 now
 
-// nowruz : Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
-nowruz
-
 // nowtv : Starbucks (HK) Limited
 nowtv
 
-// nra : NRA Holdings Company, INC.
+// nra : National Rifle Association of America
 nra
 
 // nrw : Minds + Machines GmbH
@@ -8734,7 +8680,7 @@ nyc
 // obi : OBI Group Holding SE & Co. KGaA
 obi
 
-// observer : Dog Beach, LLC
+// observer : Fegistry, LLC
 observer
 
 // office : Microsoft Corporation
@@ -8749,9 +8695,6 @@ olayan
 // olayangroup : Competrol (Luxembourg) Sarl
 olayangroup
 
-// oldnavy : The Gap, Inc.
-oldnavy
-
 // ollo : Dish DBS Corporation
 ollo
 
@@ -8764,10 +8707,10 @@ one
 // ong : Public Interest Registry
 ong
 
-// onl : iRegistry GmbH
+// onl : Jolly Host, LLC
 onl
 
-// online : Radix FZC
+// online : Radix Technologies Inc SEZC
 online
 
 // ooo : INFIBEAM AVENUES LIMITED
@@ -8782,7 +8725,7 @@ oracle
 // orange : Orange Brand Services Limited
 orange
 
-// organic : Identity Digital Limited
+// organic : Identity Digital Domains Limited
 organic
 
 // origins : The Estée Lauder Companies Inc.
@@ -8809,9 +8752,6 @@ panasonic
 // paris : City of Paris
 paris
 
-// pars : Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
-pars
-
 // partners : Binky Moon, LLC
 partners
 
@@ -8827,7 +8767,7 @@ pay
 // pccw : PCCW Enterprises Limited
 pccw
 
-// pet : Identity Digital Limited
+// pet : Identity Digital Domains Limited
 pet
 
 // pfizer : Pfizer Inc.
@@ -8860,7 +8800,7 @@ physio
 // pics : XYZ.COM LLC
 pics
 
-// pictet : Pictet Europe S.A.
+// pictet : Banque Pictet & Cie SA
 pictet
 
 // pictures : Binky Moon, LLC
@@ -8875,7 +8815,7 @@ pin
 // ping : Ping Registry Provider, Inc.
 ping
 
-// pink : Identity Digital Limited
+// pink : Identity Digital Domains Limited
 pink
 
 // pioneer : Pioneer Corporation
@@ -8905,7 +8845,7 @@ pnc
 // pohl : Deutsche Vermögensberatung Aktiengesellschaft DVAG
 pohl
 
-// poker : Identity Digital Limited
+// poker : Identity Digital Domains Limited
 poker
 
 // politie : Politie Nederland
@@ -8914,13 +8854,10 @@ politie
 // porn : ICM Registry PN LLC
 porn
 
-// pramerica : Prudential Financial, Inc.
-pramerica
-
 // praxi : Praxi S.p.A.
 praxi
 
-// press : Radix FZC
+// press : Radix Technologies Inc SEZC
 press
 
 // prime : Amazon Registry Services, Inc.
@@ -8938,13 +8875,13 @@ prof
 // progressive : Progressive Casualty Insurance Company
 progressive
 
-// promo : Identity Digital Limited
+// promo : Identity Digital Domains Limited
 promo
 
 // properties : Binky Moon, LLC
 properties
 
-// property : Internet Naming Company LLC
+// property : Digital Property Infrastructure Limited
 property
 
 // protection : XYZ.COM LLC
@@ -8974,7 +8911,7 @@ quest
 // racing : Premier Registry Limited
 racing
 
-// radio : European Broadcasting Union (EBU)
+// radio : Digity, LLC
 radio
 
 // read : Amazon Registry Services, Inc.
@@ -8986,17 +8923,14 @@ realestate
 // realtor : Real Estate Domains LLC
 realtor
 
-// realty : Dog Beach, LLC
+// realty : Waterford Limited
 realty
 
 // recipes : Binky Moon, LLC
 recipes
 
-// red : Identity Digital Limited
+// red : Identity Digital Domains Limited
 red
-
-// redstone : Redstone Haute Couture Co., Ltd.
-redstone
 
 // redumbrella : Travelers TLD, LLC
 redumbrella
@@ -9067,9 +9001,6 @@ rio
 // rip : Dog Beach, LLC
 rip
 
-// rocher : Ferrero Trading Lux S.A.
-rocher
-
 // rocks : Dog Beach, LLC
 rocks
 
@@ -9106,7 +9037,7 @@ saarland
 // safe : Amazon Registry Services, Inc.
 safe
 
-// safety : Safety Registry Services, LLC.
+// safety : Jolly Host, LLC
 safety
 
 // sakura : SAKURA Internet Inc.
@@ -9153,9 +9084,6 @@ sbi
 
 // sbs : ShortDot SA
 sbs
-
-// sca : SVENSKA CELLULOSA AKTIEBOLAGET SCA (publ)
-sca
 
 // scb : The Siam Commercial Bank Public Company Limited ("SCB")
 scb
@@ -9229,16 +9157,10 @@ shangrila
 // sharp : Sharp Corporation
 sharp
 
-// shaw : Shaw Cablesystems G.P.
-shaw
-
 // shell : Shell Information Technology International Inc
 shell
 
-// shia : Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
-shia
-
-// shiksha : Identity Digital Limited
+// shiksha : Identity Digital Domains Limited
 shiksha
 
 // shoes : Binky Moon, LLC
@@ -9256,9 +9178,6 @@ shouji
 // show : Binky Moon, LLC
 show
 
-// showtime : CBS Domains Inc.
-showtime
-
 // silk : Amazon Registry Services, Inc.
 silk
 
@@ -9268,16 +9187,16 @@ sina
 // singles : Binky Moon, LLC
 singles
 
-// site : Radix FZC
+// site : Radix Technologies Inc SEZC
 site
 
-// ski : Identity Digital Limited
+// ski : Identity Digital Domains Limited
 ski
 
 // skin : XYZ.COM LLC
 skin
 
-// sky : Sky International AG
+// sky : Sky UK Limited
 sky
 
 // skype : Microsoft Corporation
@@ -9319,7 +9238,7 @@ solutions
 // song : Amazon Registry Services, Inc.
 song
 
-// sony : Sony Corporation
+// sony : Sony Group Corporation
 sony
 
 // soy : Charleston Road Registry Inc.
@@ -9328,7 +9247,7 @@ soy
 // spa : Asia Spa and Wellness Promotion Council Limited
 spa
 
-// space : Radix FZC
+// space : Radix Technologies Inc SEZC
 space
 
 // sport : SportAccord
@@ -9367,7 +9286,7 @@ stockholm
 // storage : XYZ.COM LLC
 storage
 
-// store : Radix FZC
+// store : Radix Technologies Inc SEZC
 store
 
 // stream : dot Stream Limited
@@ -9445,16 +9364,13 @@ tax
 // taxi : Binky Moon, LLC
 taxi
 
-// tci : Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
-tci
-
 // tdk : TDK Corporation
 tdk
 
 // team : Binky Moon, LLC
 team
 
-// tech : Radix FZC
+// tech : Radix Technologies Inc SEZC
 tech
 
 // technology : Binky Moon, LLC
@@ -9517,7 +9433,7 @@ tokyo
 // tools : Binky Moon, LLC
 tools
 
-// top : .TOP Registry
+// top : Hong Kong Zhongze International Limited
 top
 
 // toray : Toray Industries, Inc.
@@ -9592,7 +9508,7 @@ unicom
 // university : Binky Moon, LLC
 university
 
-// uno : Radix FZC
+// uno : Radix Technologies Inc SEZC
 uno
 
 // uol : UBN INTERNET LTDA.
@@ -9604,7 +9520,7 @@ ups
 // vacations : Binky Moon, LLC
 vacations
 
-// vana : Lifestyle Domain Holdings, Inc.
+// vana : D3 Registry LLC
 vana
 
 // vanguard : The Vanguard Group, Inc.
@@ -9667,9 +9583,6 @@ vlaanderen
 // vodka : Registry Services, LLC
 vodka
 
-// volkswagen : Volkswagen Group of America Inc.
-volkswagen
-
 // volvo : Volvo Holding Sverige Aktiebolag
 volvo
 
@@ -9703,14 +9616,17 @@ wanggou
 // watch : Binky Moon, LLC
 watch
 
-// watches : Identity Digital Limited
+// watches : Identity Digital Domains Limited
 watches
 
-// weather : International Business Machines Corporation
+// weather : The Weather Company, LLC
 weather
 
-// weatherchannel : International Business Machines Corporation
+// weatherchannel : The Weather Company, LLC
 weatherchannel
+
+// web : VeriSign, Inc.
+web
 
 // webcam : dot Webcam Limited
 webcam
@@ -9718,7 +9634,7 @@ webcam
 // weber : Saint-Gobain Weber SA
 weber
 
-// website : Radix FZC
+// website : Radix Technologies Inc SEZC
 website
 
 // wedding : Registry Services, LLC
@@ -9733,7 +9649,7 @@ weir
 // whoswho : Who's Who Registry
 whoswho
 
-// wien : punkt.wien GmbH
+// wien : domainworx Service & Management GmbH
 wien
 
 // wiki : Registry Services, LLC
@@ -9756,9 +9672,6 @@ winners
 
 // wme : William Morris Endeavor Entertainment, LLC
 wme
-
-// wolterskluwer : Wolters Kluwer N.V.
-wolterskluwer
 
 // woodside : Woodside Petroleum Limited
 woodside
@@ -9787,9 +9700,6 @@ xbox
 // xerox : Xerox DNHC LLC
 xerox
 
-// xfinity : Comcast IP Holdings I, LLC
-xfinity
-
 // xihuan : Beijing Qihu Keji Co., Ltd.
 xihuan
 
@@ -9811,7 +9721,7 @@ xin
 // xn--3bst00m : Eagle Horizon Limited
 集团
 
-// xn--3ds443g : TLD REGISTRY LIMITED OY
+// xn--3ds443g : Beijing TLD Registry Technology Limited
 在线
 
 // xn--3pxu8k : VeriSign Sarl
@@ -9835,10 +9745,10 @@ xin
 // xn--5su34j936bgsg : Shangri‐La International Hotel Management Limited
 香格里拉
 
-// xn--5tzm5g : Global Website TLD Asia Limited
+// xn--5tzm5g : Jolly Host, LLC
 网站
 
-// xn--6frz82g : Identity Digital Limited
+// xn--6frz82g : Identity Digital Domains Limited
 移动
 
 // xn--6qq986b3xl : Tycoon Treasure Limited
@@ -9913,7 +9823,7 @@ xin
 // xn--fhbei : VeriSign Sarl
 كوم
 
-// xn--fiq228c5hs : TLD REGISTRY LIMITED OY
+// xn--fiq228c5hs : Beijing TLD Registry Technology Limited
 中文网
 
 // xn--fiq64b : CITIC Group Corporation
@@ -9970,9 +9880,6 @@ xin
 // xn--mgba7c0bbn0a : Competrol (Luxembourg) Sarl
 العليان
 
-// xn--mgbaakc7dvf : Emirates Telecommunications Corporation (trading as Etisalat)
-اتصالات
-
 // xn--mgbab2bd : CORE Association
 بازار
 
@@ -9981,9 +9888,6 @@ xin
 
 // xn--mgbi4ecexp : Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)
 كاثوليك
-
-// xn--mgbt3dhd : Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
-همراه
 
 // xn--mk1bu44c : VeriSign Sarl
 닷컴
@@ -10075,13 +9979,13 @@ xyz
 // yachts : XYZ.COM LLC
 yachts
 
-// yahoo : Oath Inc.
+// yahoo : Yahoo Inc.
 yahoo
 
 // yamaxun : Amazon Registry Services, Inc.
 yamaxun
 
-// yandex : Yandex Europe B.V.
+// yandex : YANDEX, LLC
 yandex
 
 // yodobashi : YODOBASHI CAMERA CO.,LTD.
